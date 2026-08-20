@@ -1,4 +1,4 @@
-# Driver-Drowsiness-Eye-Detection
+# Driver-Drowsiness-Detection
 A small deep learning project for detecting visual signs of driver drowsiness using YOLO11n.
 This project uses a YOLO11n object detection model to detect the driver's eye and mouth states from images and videos.
 
