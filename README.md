@@ -3,10 +3,11 @@ A small deep learning project for detecting visual signs of driver drowsiness us
 This project uses a YOLO11n object detection model to detect the driver's eye and mouth states from images and videos.
 
 The model is trained to recognize four classes:
-eye_open
-eye_closed
-mouth_open
-mouth_closed
+- eye_open
+- eye_closed
+- mouth_open
+- mouth_closed
+
 The detected states are then used to identify simple visual signs of drowsiness, such as prolonged eye closure or repeated mouth opening.
 
 Our pipeline
